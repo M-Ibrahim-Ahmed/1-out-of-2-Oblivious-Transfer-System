@@ -1,0 +1,23 @@
+## Step 1:
+    Open a terminal and run sender:
+    "python Sender.py" 
+
+## Step 2:
+    Open another terminal and run receiver:
+    "python Receiver.py"
+    
+## Step 3:
+      Select the type (0 = message, 1 = file)
+      Choose the index (0 or 1) of the input you want.
+
+## Step 4:
+      Depending on the selected mode:
+      1. Message Mode:
+            Sender will be prompted to input two messages
+      2. File Mode:
+            Sender will enter paths to two files
+
+## Step 5: Receiver Output
+      1. If in Message Mode receiver will see the received message.
+      2. If in File Mode Receiver will be prompted for output file name to be saved as.
+
